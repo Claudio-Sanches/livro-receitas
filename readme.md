@@ -3,4 +3,5 @@
 Olá! Bem vindo ao meu livro de receitas desenvolvido durante bootcamp Dio
 
 - Strogonoff de frango
-- Bole de Cenoura
+- Bolo de Cenoura
+- Pave
